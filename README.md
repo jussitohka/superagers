@@ -1,5 +1,8 @@
 # superagers
-Code for superagers paper:
+Code for 
+
+Marta Garo-Pascual, Christian Gaser, Linda Zhang, Jussi Tohka, Miguel Medina, Bryan A Strange. Brain structure and phenotypic profile of superagers compared with age-matched older adults: a longitudinal analysis from the Vallecas Project. The Lancet Healthy Longevity, 4(8)e374-e385, 2023. 
+
 1. Data is prepared with vallecas_superagers_v4.m (does also other things, which, by now, may be irrelevant) 
 2. Random forests are trained in parallel with
 vallecas_superagers_v3_rf_pvalues_7500trees
